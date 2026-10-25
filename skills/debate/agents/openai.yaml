@@ -1,0 +1,4 @@
+interface:
+  display_name: "교차 토론"
+  short_description: "독립 제안과 교차 반론으로 결정 근거와 수정안, 남은 쟁점을 정리"
+  default_prompt: "$debate 핵심 가정을 셀프 인터뷰로 점검하고, 독립 제안과 교차 반론을 거쳐 실제 수정안과 남은 쟁점을 정리해 주세요."
